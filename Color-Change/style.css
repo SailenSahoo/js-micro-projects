@@ -1,0 +1,30 @@
+h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+button{
+    color: white;
+    font-size: large;
+    font-weight: bold;
+    border-radius: 10px;
+    width: 100px;
+    height: 40px;
+    margin: 5px;
+
+}
+
+#red{
+    background-color: red;
+}
+
+#blue{
+    background-color: blue;
+}
+
+#green{
+    background-color: green;
+}
+
+#random{
+    background-color: grey;
+}
